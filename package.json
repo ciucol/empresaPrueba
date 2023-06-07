@@ -1,0 +1,22 @@
+{
+  "name": "pruebaal",
+  "version": "0.1.0",
+  "description": "prueba tecnica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ciucol/empresaPrueba.git"
+  },
+  "author": "@ciucol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ciucol/empresaPrueba/issues"
+  },
+  "homepage": "https://github.com/ciucol/empresaPrueba#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
